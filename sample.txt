@@ -1,0 +1,21 @@
+Server Administration 
+	conduct knowledge sharing sessions about cloud services -- IAAS,Ansible, Terraform
+
+IAAS:
+    Working as cloud administrator/Devops Engineer with knowledge in cloud technologies and AWS,Git Ansible/Ansible tower and terraform,completed knowledge sharing sessions to team members to follow devops practices and automate infrastructure.
+
+	worked on creating ansible roles and playbooks to perform redhat linux patching using ansible tower.
+
+	created terraform project to build infrastructure as code to create and manage infrastructure in AWS.
+
+Security Administration
+	created ansible playbooks and roles to patch security vulnerabilities quickly in an automated way to  redhat linux infrastructre to mitigate risk and maintain compliance of infrastructure.
+
+Database Administration
+    Worked with team members to identify use cases to perform automation.
+
+ General system Administration
+ 	performed system administration tasks adhering to agreed and given timelines.
+ 	worked on automating repititive tasks to eliminate manual error using ansible.
+
+
